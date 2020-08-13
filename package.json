@@ -1,0 +1,25 @@
+{
+  "name": "typescript-programming",
+  "version": "1.0.0",
+  "description": "Typescript tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratham82/Typescript-Programming.git"
+  },
+  "author": "Prathamesh Mali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pratham82/Typescript-Programming/issues"
+  },
+  "homepage": "https://github.com/Pratham82/Typescript-Programming#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.159"
+  }
+}
