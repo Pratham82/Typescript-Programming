@@ -1,0 +1,14 @@
+{
+  "name": "01.-fetch-json",
+  "version": "1.0.0",
+  "description": "basic project for fetching json data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prathamesh Mali",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
